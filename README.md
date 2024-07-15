@@ -1,4 +1,4 @@
-# Evaluating-Linear-Regression-Performance-Metrics
+# Evaluating Linear Regression Performance Metrics
 
 This repository provides an overview of performance metrics used for evaluating regression models. It covers two main types of metrics:
 
@@ -25,3 +25,6 @@ When developing models to forecast stock prices based on various financial indic
 In healthcare, predicting patient outcomes based on demographic and clinical data requires robust regression models. R-squared can reflect the model's explanatory strength, while RMSE can help assess the accuracy of predictions, crucial for patient care and resource planning.
 
 Explore the implementation and evaluation of these metrics to enhance your understanding of regression performance and apply them to your projects!
+
+### Linear Regression metric evaluation notebook
+[Linear Regression Performance Metrics](#)
