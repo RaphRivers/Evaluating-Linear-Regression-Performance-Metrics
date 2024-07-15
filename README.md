@@ -27,4 +27,4 @@ In healthcare, predicting patient outcomes based on demographic and clinical dat
 Explore the implementation and evaluation of these metrics to enhance your understanding of regression performance and apply them to your projects!
 
 ### Linear Regression metric evaluation notebook
-[Linear Regression Performance Metrics](#)
+[Linear Regression Performance Metrics](https://github.com/RaphRivers/Evaluating-Linear-Regression-Performance-Metrics/blob/main/Regression%20Performance%20Matric.ipynb)
